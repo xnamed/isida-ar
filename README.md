@@ -1,2 +1,4 @@
-# isida-wiki-ar
-Explaining how to install isida-bot and use it in Arabic
+<div dir="rtl">
+  
+# بوت آيسيدا
+* كيفية التنصيب والاستخدام باللغة العربية اقرأ [الويكي](https://github.com/xnamed/isida-ar/wiki)
